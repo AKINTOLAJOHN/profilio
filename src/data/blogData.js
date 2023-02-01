@@ -1,0 +1,60 @@
+export const blogData = [
+    {
+        id: 1,
+        title: 'My Personal IT Learning Journey',
+        description: 'My personal IT learning journey Short Writeup.',
+        date: 'Sep 4, 2021',
+        image: 'https://scontent.fkhi4-3.fna.fbcdn.net/v/t39.30808-6/276137820_3105639726347478_7864293120816527966_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHosGNli3vCRqKzC0159H5__oHvtSwtuJz-ge-1LC24nHW2y6COBrTBtAN8xD4CJiBZ-58H21xCKdTjJDPiMsyG&_nc_ohc=gU0NmzcY3REAX-_9_XC&_nc_zt=23&_nc_ht=scontent.fkhi4-3.fna&oh=00_AT9rX1BEKzA_DHTtnbd3rFIShXbEllq0iAXjl_fIzbpxtA&oe=6268835E',
+        url: 'https://dev.to/attaullahshafiq10/my-personal-it-learning-journey-3mdh'
+    },
+    {
+        id: 2,
+        title: 'Ethical Hackers Operating Systems',
+        description: 'Hackers Operating Systems The hackers have their own operating system with many hacking tools and cracking tools.',
+        date: 'Aug 24, 2021',
+        image: 'https://itsfoss.com/wp-content/uploads/2019/02/kali-linux-virtual-box.png',
+        url: 'https://dev.to/attaullahshafiq10/ethical-hacker-s-operating-systems-23ga'
+    },
+    {
+        id: 3,
+        title: 'Why Certifications Matter - Reasons',
+        description: 'Here are some basic ways to lay off the Radar',
+        date: 'Aug 14, 2020',
+        image: 'https://www.whizlabs.com/blog/wp-content/uploads/2019/12/importance_of_certifications.png',
+        url: 'https://dev.to/attaullahshafiq10/why-certifications-matter-reasons-epc'
+    },
+    {
+        id: 4,
+        title: 'Getting started with data science and machine learning',
+        description: ' data science and machine learning.',
+        date: 'Aug 17, 2021',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCPoABnVguHOm4kEvQhjKlJkX0AGZMur6LSg&usqp=CAU',
+        url: 'https://dev.to/attaullahshafiq10/getting-started-with-data-science-and-machine-learning-2dhe'
+    },
+    {
+        id: 5,
+        title: 'Exploit Website Databases Using SQLmap',
+        description: 'Webserver Exploit.',
+        date: 'Oct 1, 2020',
+        image: 'data:image/jpeg;base64,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',
+        url: 'https://dev.to/attaullahshafiq10/exploit-website-databases-using-sqlmap-46f0'
+    },
+]
+
+
+
+
+// Do not remove any fields.
+// Leave it blank instead as shown below.
+
+
+/* 
+{
+    id: 1,
+    title: 'Car Pooling System',
+    description: '',
+    date: 'Oct 1, 2020',
+    image: '',
+    url: 'https://preview.colorlib.com/theme/rezume/'
+}, 
+*/
