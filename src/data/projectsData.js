@@ -3,98 +3,81 @@ import two from '../assets/svg/projects/two.svg'
 import three from '../assets/svg/projects/three.svg'
 import four from '../assets/svg/projects/four.svg'
 import five from '../assets/svg/projects/five.svg'
-import six from '../assets/svg/projects/six.svg'
+// import six from '../assets/svg/projects/six.svg'
 import seven from '../assets/svg/projects/seven.svg'
-import eight from '../assets/svg/projects/eight.svg'
+// import eight from '../assets/svg/projects/eight.svg'
 
 
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Testing UOS Web Server',
-        projectDesc: 'The idea behind the project is to Secure Education Portals infrastructure',
-        tags: ['kali linux', 'Python', 'Ethical Hacking'],
-        code: 'https://github.com/attaullahshafiq10/Exploitation-of-Web-Server-Enterprise-network-vulnerabilities',
-        demo: 'https://github.com/attaullahshafiq10/Exploitation-of-Web-Server-Enterprise-network-vulnerabilities',
+        projectName: 'autheniation',
+        projectDesc: 'The idea behind the project is to Secure authentication',
+        tags: ['kali linux', 'nodejs', 'Ethical Hacking'],
+        code: 'https://github.com/AKINTOLAJOHN/authenication/',
         image: one
     },
     {
         id: 2,
-        projectName: 'XOR Learning Neural Network',
-        projectDesc: 'A complex python neural network implementation for the XOR problem in PYTHON.',
-        tags: ['Code', 'Python'],
-        code: 'https://github.com/attaullahshafiq10/XOR-Learning-Neural-Network',
-        demo: 'https://attaullahshafiq10.github.io/projects/NeuralNetwork',
+        projectName: 'first bank',
+        projectDesc: 'A complex python code to immutiate first bank *894#',
+        tags: ['Code', 'Python','Python-Projects','program auto-mation'],
+        code: 'https://github.com/AKINTOLAJOHN/firstbank-of-nigeria-using-ussd-code',
+        demo: '',
         image: two
     },
     {
         id: 3,
-        projectName: 'Sentiment Analysis',
-        projectDesc: 'Demo on Sentiment Analysis of Amazon. Understanding the sentiment of the textual data is a very crucial component in data science. In this Demo, I have used Natural Processing Techniques to understand the sentiment of some of the reviews posted on the amazon website.',
-        tags: ['Python-Projects', 'Data_Science', 'Sentiment Analysis'],
-        code: 'https://github.com/attaullahshafiq10/Sentiment-Analysis',
-        demo: 'https://attaullahshafiq10.github.io/projects/sentiment-analysis-amazon',
+        projectName: 'logistics',
+        projectDesc: 'Demo on Sentiment on logistics ',
+        tags: ['Css-Projects', 'HTML', 'Boostrap'],
+        code: 'https://github.com/AKINTOLAJOHN/logistics-app/',
+        demo: 'https://akintolajohn.github.io/logistics-app/',
         image: three
     },
     {
         id: 4,
-        projectName: 'Realtime Face Detection and Tracking with MATLAB',
-        projectDesc: 'Object detection and tracking are important in many computer vision applications including activity recognition, automotive safety, and surveillance.',
-        tags: ['ComputerVision', 'Realtime_Face_Detection_and_Tracking','ObjectDetection'],
-        code: 'https://github.com/attaullahshafiq10/Realtime-Face-Detection-and-Tracking-with-MATLAB',
-        demo: 'https://attaullahshafiq10.github.io/projects/face-detection',
+        projectName: 'Realtime chat',
+        projectDesc: 'objective of the project is to immutate a chatapp',
+        tags: ['Firebase', 'javascript','chatbot'],
+        code: 'https://github.com/AKINTOLAJOHN/chatbot',
+        demo: 'https://',
         image: four
     },
     {
         id: 5,
-        projectName: 'Ludo Game Project In PYTHON',
-        projectDesc: 'Ludo Game project is written in Python',
-        tags: ['Python', 'Game'],
-        code: 'https://github.com/attaullahshafiq10/',
-        demo: 'https://attaullahshafiq10.github.io/projects/LudoGame',
+        projectName: 'tac-ta-toe Game Project In javascript',
+        projectDesc: 'tatactoe Game project is written in Javascript',
+        tags: ['javascript', 'Game'],
+        code: 'https://github.com/AKINTOLAJOHN/tac-ta-toe/',
+        demo: 'https://akintolajohn.github.io/tac-ta-toe/',
         image: five
     },
-    {
-        id: 6,
-        projectName: 'Disply MRI Data using MATLAB',
-        projectDesc: 'The example of scalar data includes magnetic resonance imaging (MRI) data.',
-        tags: ['MATLAB'],
-        code: 'https://github.com/attaullahshafiq10/Display-MRI-Data',
-        demo: 'https://attaullahshafiq10.github.io/projects/MRI-Data',
-        image: six
-    },
+    // {
+    //     id: 6,
+    //     projectName: 'tasla clone',
+    //     projectDesc: 'The to clone tasla',
+    //     tags: ['tasla'],
+    //     code: 'https://github.com/',
+    //     demo: 'https://',
+    //     image: six
+    // },
     {
         id: 7,
-        projectName: 'Display Teapot using MATLAb        ',
-        projectDesc: 'A simple stock market API app',
-        tags: ['React', 'Redux', 'Bootstrap'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'TO-Do',
+        projectDesc: 'A TO-DO app to manage time',
+        tags: ['Node', 'ejs','expressjs', 'mongodb'],
+        code: 'https://github.com/AKINTOLAJOHN/todo-list',
+        demo: 'https://akintolajohn.github.io/todo-list/',
         image: seven
     },
-    {
-        id: 8,
-        projectName: 'Car Pooling System',
-        projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
-        tags: ['Flutter', 'React'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: eight
-    },
+    // {
+    //     id: 8,
+    //     projectName: 'Car Pooling System',
+    //     projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
+    //     tags: ['Flutter', 'React'],
+    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+    //     image: eight
+    // },
 ]
-
-
-// Do not remove any fields.
-// Leave it blank instead as shown below
-
-/* 
-{
-    id: 1,
-    projectName: 'Car Pooling System',
-    projectDesc: '',
-    tags: ['Flutter', 'React'],
-    code: '',
-    demo: '',
-    image: ''
-}, 
-*/

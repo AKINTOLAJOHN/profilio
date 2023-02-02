@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'attaullah@nanotechx.org',
-    phone: '+923163116336',
-    address: 'Malir Cantt Karachi ',
+    email: 'akin10400@gmail.com',
+    phone: '+2348136281530',
+    address: 'lautech ogbomoso',
 
     sheetAPI: 'https://sheetdb.io/api/v1/bbkn29a9ju1zg'
 }
