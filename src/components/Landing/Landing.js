@@ -177,7 +177,7 @@ function Landing() {
                                 </a>
                             )}
                             <NavLink
-                                to='https://www.picktime.com/attaullah'
+                                to='https://www.picktime.com/akintola'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}

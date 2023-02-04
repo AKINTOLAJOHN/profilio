@@ -64,7 +64,7 @@ export const projectsData = [
     // },
     {
         id: 7,
-        projectName: 'TO-Do',
+        projectName: 'TO-DO LIST',
         projectDesc: 'A TO-DO app to manage time',
         tags: ['Node', 'ejs','expressjs', 'mongodb'],
         code: 'https://github.com/AKINTOLAJOHN/todo-list',
