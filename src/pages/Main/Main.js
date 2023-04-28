@@ -20,11 +20,11 @@ function Main() {
             <Skills />
             <Experience />
             {/* <Community /> */}
-            <Projects />
+            {/* <Projects /> */}
             {/* <Achievement /> */}
             <Services />
             {/* <Testimonials /> */}
-            <Blog />
+            {/* <Blog /> */}
             <Contacts />
             <Footer />
         </div>

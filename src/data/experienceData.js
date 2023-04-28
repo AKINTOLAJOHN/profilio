@@ -6,13 +6,13 @@ export const experienceData = [
         startYear: '2022',
         endYear: 'Present'
     },
-    // {
-    //     id: 2,
-    //     company: 'Cisco',
-    //     jobtitle: 'Cisco Certiﬁed Instructor - CCAI',
-    //     startYear: '2021',
-    //     endYear: '2020'
-    // },
+    {
+        id: 2,
+        company: 'stog',
+        jobtitle: 'voluteer',
+        startYear: '2022',
+        endYear: 'present'
+    },
     // {
     //     id: 3,
     //     company: 'National Vocational and Technical Training Commission',
